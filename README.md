@@ -25,7 +25,7 @@ To run this API on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone 'https://github.com/jadhav-onkar/TODO-API'
    ```
 
 2. **Navigate to the root directory**:
